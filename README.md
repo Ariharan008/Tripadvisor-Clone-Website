@@ -9,14 +9,21 @@ Thanks for stopping by! This is a frontend-only Tripadvisor-inspired website, cr
 📚 Project Overview
 This project is a responsive clone of the Tripadvisor homepage, built purely with HTML5 and CSS3. It replicates the layout, sections, and interactive features of the original site, focusing on modern design, user interface structure, and mobile responsiveness.
 
-🚀 Features
-✅ Clean, mobile-first responsive layout using Flexbox
+🚀 Features:
+ ✅ Clean, mobile-first responsive layout using Flexbox
+     
 📌 Country & Currency Section
+    
 🖼️ Travel categories, destinations, and cards layout
+
 🎯 Hover effects for links and buttons
+
 📱 Responsive design with @media queries
+
 🦶 Fully-styled footer with multiple link columns
+
 🎨 Smooth transitions and animations using CSS
+
 🌎 Custom currencies like $ SGD – Singapore, ₹ INR – India, etc.
 
 🛠️ Technologies Used
