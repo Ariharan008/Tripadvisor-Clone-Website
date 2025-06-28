@@ -339,6 +339,16 @@ body{
     .photocard__ca__1{
     flex-basis: 40%;
     }
+    .adv{
+        padding-left: 10px;
+    }
+     .photocard2{
+    background-color: bisque;
+    margin: 30px auto;
+    padding-left: 60px;
+    padding-right: 70px;
+}
+
     .photobar__text h1 {
     font-size: 25px;
     font-weight: 600;
