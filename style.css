@@ -366,19 +366,26 @@ body{
     .search__items__2{
         display: none;
     }
+    .photocard{
+    padding: 30px 60px;
+}
     .photocard__ca__1{
-    flex-basis: 70%;
+    flex-basis: 80%;
+    flex-grow: 1;
     }
     .photobar__1{
         display: inline-block;
         padding: 15px;
 
     }
+    .adv{
+        padding-left: 10px;
+    }
     .photocard2{
     background-color: bisque;
     margin: 30px auto;
-    padding-left: 100px;
-    padding-right: 50px;
+    padding-left: 80px;
+    padding-right: 70px;
 }
 .footer__2__left{
     display: none;
