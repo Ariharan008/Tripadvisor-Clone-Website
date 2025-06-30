@@ -110,8 +110,13 @@ body{
     cursor: pointer;
 }
 .search__items__1:hover{
+    color: skyblue;
    border-bottom: solid rgb(200, 195, 195) 2px;
 
+}
+.search__items__2:hover{
+    color: skyblue;
+   border-bottom: solid rgb(200, 195, 195) 2px;
 }
 .search__items__1 i{
     padding-left: 20px;
